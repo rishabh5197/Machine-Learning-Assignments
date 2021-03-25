@@ -1,0 +1,24 @@
+items,company,ratings out of 5,prices,processor_brand,processor,ram,ram_type,operating_system,screen_size,ssd_present,ssd_capacity,hdd_capacity_in_TB,Purchased
+AMD Ryzen 5 Quad Core Processor (3rd Gen),AMD,4.4,48990,AMD,Ryzen 5, 8,DDR4,Windows 10,14 inch,Yes,256,1,Yes
+Intel Core i3 Processor (10th Gen),Intel,4,35990,Intel,Core i3, 8,DDR4,Windows 10,15.6 inch,Yes,256,,No
+Intel Core i5 Processor (9th Gen),Intel,4.5,52990,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,Yes,512,,No
+Intel Core i3 Processor (10th Gen),Intel,4.2,33490,Intel,Core i3, 4,DDR4,Windows 10,15.6 inch,Yes,256,,Yes
+Intel Core i3 Processor (10th Gen),Intel,4.2,35990,Intel,Core i3, 8,DDR4,Windows 10,14 inch,Yes,256,,No
+AMD Ryzen 5 Hexa Core Processor,AMD,4.5,54990,AMD,Ryzen 5, 8,DDR4,Windows 10,15.6 inch,Yes,512,,Yes
+Intel Core i5 Processor (11th Gen),Intel,4.3,54890,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,Yes,256,1,No
+Intel Core i5 Processor (10th Gen),Intel,4,49990,Intel,Core i5, 8,DDR4,Windows 10,14 inch,Yes,1024,,Yes
+AMD APU Dual Core A6 Processor,AMD,4.6,24990,AMD,APU Dual, 4,DDR4,Windows 10,15.6 inch,No,,1,Yes
+Apple M1 Processor,Apple,4.6,92900,M1,M1 Processor, 8,DDR4,Mac Os,13.3 inch,Yes,256,,Yes
+AMD Ryzen 5 Hexa Core Processor,AMD,4.5,59990,AMD,Ryzen 5, 8,DDR4,Windows 10,15.6 inch,Yes,256,1,No
+Intel Core i5 Processor (10th Gen),Intel,4.5,60990,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,Yes,256,1,Yes
+Intel Core i7 Processor (9th Gen),Intel,4.3,64990,Intel,Core i7, 8,DDR4,Windows 10,15.6 inch,Yes,512,,No
+Intel Core i5 Processor (10th Gen),Intel,4.5,49990,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,Yes,512,,Yes
+Intel Core i7 Processor (11th Gen) ,Intel,4.2,79990,Intel,Core i7,16,DDR4,Windows 10,14 inch,Yes,1024,,Yes
+Intel Celeron Dual Core Processor,Intel,4.1,23990,Intel,Celeron Dual, 4,DDR4,Windows 10,15.6 inch,Yes,256,,No
+Intel Core i5 Processor (10th Gen),Intel,4.4,42990,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,No,,1,No
+Intel Core i5 Processor (9th Gen),Intel,4.3,54990,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,Yes,512,,No
+Intel Core i5 Processor (10th Gen),Intel,4.5,51990,Intel,Core i5, 8,DDR4,Windows 10,14 inch,Yes,256,1,No
+AMD Ryzen 3 Dual Core Processor,AMD,4.8,35990,AMD,Ryzen 3, 8,DDR4,Windows 10,15.6 inch,No,,1,No
+Intel Core i3 Processor (11th Gen),Intel,4.4,47990,Intel,Core i3, 8,DDR4,Windows 10,14 inch,Yes,256,,Yes
+Intel Core i3 Processor (10th Gen),Intel,4,38199,Intel,Core i3, 8,DDR4,Windows 10,14 inch,Yes,256,,Yes
+Intel Core i5 Processor (10th Gen),Intel,4.6,42990,Intel,Core i5, 8,DDR4,Windows 10,15.6 inch,No,,1,No
